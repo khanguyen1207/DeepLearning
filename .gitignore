@@ -1,2 +1,4 @@
 Notebooks/.ipynb_checkpoints/
 **.psd
+Notebooks/__pycache__/
+**.gz
